@@ -1,6 +1,6 @@
 module.exports = {
     target: {
-        targetUrl: "https://kremlin.ru",
+        targetUrl: "https://bubuta.ru:110",
         requestDelay: 0,
         repeat: 21222,
         abortNumber: 5,
